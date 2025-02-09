@@ -29,7 +29,7 @@ The terrain is generated using Perlin noise and most other effects use a particl
 
 ## Credits
 - Game design and art by [badcomputer](https://twitter.com/badcomputer0)
-- Font by [Damien Guard](https://damieng.com/)
+- Title Font by [Damien Guard](https://damieng.com/)
 
 ## License
 [MIT license](http://en.wikipedia.org/wiki/MIT_License)
