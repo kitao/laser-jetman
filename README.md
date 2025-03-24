@@ -3,7 +3,7 @@
 ## Introduction
 Laser Jetman is a short arcade shooter inspired by Defender by Williams Electronics (1981). It is written in Python and uses the Pyxel game engine.
 
-You can play the game on itch.io [here](https://helpcomputer.itch.io/laser-jetman).
+You can play the game on itch.io [here](https://badcomputer0.itch.io/laser-jetman).
 
 ![](/images/prev01.gif?raw=true "")
 
