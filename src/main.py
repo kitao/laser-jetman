@@ -1,4 +1,4 @@
-# title: Megaball
+# title: Laser Jetman
 # author: Adam
 # desc: A short arcade shooter inspired by Defender
 # site: https://github.com/helpcomputer/laser-jetman
